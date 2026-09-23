@@ -26,7 +26,7 @@ Organizar la cantidad de inscritos en ocho talleres y la ocupación de cuatro au
 Aplicar vectores, matrices, recorridos y ordenamiento para resolver un caso académico, explicando los algoritmos mediante representaciones gráficas, pseudocódigo y fragmentos Java.
 
 **Solución desarrollada:**  
-Se documentaron cuatro actividades: conceptos fundamentales; operaciones sobre un vector de inscritos; análisis de una matriz de ocupación de 4 × 5; y ejemplos de matrices cuadradas y dispersas. El desarrollo siguiente recupera lo trabajado en el chat «Resolver tarea paso a paso».
+Se documentaron cuatro actividades: conceptos fundamentales; operaciones sobre un vector de inscritos; análisis de una matriz de ocupación de 4 × 5; y ejemplos de matrices cuadradas y dispersas.
 
 **Convenciones:**  
 Todos los índices comienzan en cero. La matriz de ocupación contiene datos de ejemplo utilizados en el chat. Los fragmentos Java ilustran los algoritmos; todavía no constituyen un programa completo ejecutable.

@@ -501,16 +501,16 @@ La siguiente matriz registra los aportes informados por el equipo. La participac
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
 | Yasier Araceli Fernández Villavicencio | Actividad 2 completa | Alta | Alta | No  | Commits, avances, etc. |
-| Claudio Garcia Perez | Actividad 3: apartados 3.1 y 3.2 | Media | Media | No | Commits, avances, etc. |
-| Gustavo Aarón Cruz Mírez | Actividad 3: apartados 3.3 a 3.5 | Media | Media | No | Commits, avances, etc. |
+| Claudio Garcia Perez | Actividad 3: apartados 3.1 y 3.2 | Media | Media | Si | Commits, avances, etc. |
+| Gustavo Aarón Cruz Mírez | Actividad 3: apartados 3.3 a 3.5 | Media | Media | Si | Commits, avances, etc. |
 | Percy Daniel Perez Rojas | Actividad 4 completa | Media | Media | No | Commits, avances, etc. |
-| Joseph Gianmarco Soberon Leon | Actividad 1 | Alta | Alta | No | Commits, avances, etc. |
+| Joseph Gianmarco Soberon Leon | Actividad 1 | Alta | Alta | Si | Commits, avances, etc. |
 
 ## 6. Video de exposición
 
-**Estado:** La exposición no se realizó por falta de tiempo.
+**Estado:SUBIDO**
 
-**Video público de YouTube:** No disponible; no se realizó la exposición.
+**Video público de YouTube:https://www.youtube.com/watch?v=oP1wwpdXcFI** 
 
 ## 7. Conclusiones
 
